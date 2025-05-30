@@ -65,5 +65,5 @@ visualizer.add_datasample(
     draw_bbox=False,
     draw_gt = False,
     show=False,  
-    out_file='pose_result.jpg'
+    out_file='/mnt/d/DL-proj/vitpose/output/pose_result.jpg'
 )
